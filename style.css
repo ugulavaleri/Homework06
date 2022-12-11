@@ -151,3 +151,36 @@ header{
 	color: black;
 	font-size: 13px;
 }
+
+.footer{
+	width: 1150px;
+	margin: 130px auto 0 auto;
+	padding-top: 15px;
+	border: 1px solid rgba(203, 203, 203, 0.15);
+	border-left: none;
+	border-bottom: none;
+	border-right: none;
+}
+.footer-div{
+	display: inline-block;
+}
+.footer-p1{
+	color: white;
+	font-size: 13px;
+	margin-right: 700px;
+	vertical-align: middle;
+	text-align:top;
+}
+.footer-p2{
+	color: white;
+	font-size: 13px;
+}
+.smartweb-icon{
+	width: 100px;
+	vertical-align: middle;
+	margin-left: 60px;
+}
+.heart-icon{
+	width: 22px;
+	vertical-align: middle;
+}
